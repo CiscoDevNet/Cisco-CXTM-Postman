@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "1076c225-2991-4154-b97f-d841d558a0cc",
+		"_postman_id": "128e30e4-5ff9-4729-b9e1-0af8a05513c3",
 		"name": "Cisco-CXTM",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -5401,7 +5401,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"jb_id_list\": [\n        {{jobfile_id}},\n        {{jobfile2_id}}\n    ],\n    \"project_id\": \"11003\",\n    \"image_type\": \"cxta\",\n    \"library_version\": \"21.10\"\n}",
+							"raw": "{\n    \"jb_id_list\": [\n        {{jobfile_id}},\n        {{jobfile2_id}}\n    ],\n    \"project_id\": {{project_id}},\n    \"image_type\": \"cxta\",\n    \"library_version\": \"21.10\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
