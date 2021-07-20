@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Cisco-CXTM-Postman
-=======
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/Cisco-CXTM-Postman)
 
 # Cisco CXTM Postman Collection
@@ -44,4 +41,3 @@ Once you install Postman, follow the steps below to import the collection and en
 In some instances, POST methods in particular, Javascript tests have been included as part of the API request to populate environment variables. These tests will add the variables automatically to your environment variables list for use in subsequent API requests. These can be overridden in the environment settings where you updated your CXTM URL and CXTM API Key.
 
 ##### Note: In case your instance of CXTM has a self signed certificate, please make sure you disable `SSL certificate verification` in Postman's settings.
->>>>>>> 41855a3 (updates to collection)
