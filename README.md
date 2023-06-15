@@ -6,7 +6,7 @@ This repo contains a [Postman](https://www.postman.com) collection and simple en
 ## Requirements
 The Postman collection and environment will need:
 * Postman 8.7.0+
-* CXTM 25.5.5+
+* CXTM 21.5.5+
 
 ## Getting Started
 Once you install Postman, follow the steps below to import the collection and environment:
